@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>viewEmploi</class>
+ <widget class="QDialog" name="viewEmploi">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>569</width>
+    <height>363</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Emploi du temps</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout">
+   <item>
+    <widget class="QTableWidget" name="affEmploi">
+     <attribute name="horizontalHeaderDefaultSectionSize">
+      <number>105</number>
+     </attribute>
+     <attribute name="verticalHeaderDefaultSectionSize">
+      <number>18</number>
+     </attribute>
+     <attribute name="verticalHeaderMinimumSectionSize">
+      <number>18</number>
+     </attribute>
+     <row>
+      <property name="text">
+       <string/>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>8h00</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>8h15</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>8h30</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>8h45</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>9h00</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>9h15</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>9h30</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>9h45</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>10h00</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>10h15</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>10h30</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>10h45</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>11h00</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>11h15</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>11h30</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>11h45</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>12h00</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>12h15</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>12h30</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>12h45</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>13h00</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>13h15</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>13h30</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>13h45</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>14h00</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>14h15</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>14h30</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>14h45</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>15h00</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>15h15</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>15h30</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>15h45</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>16h00</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>16h15</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>16h30</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>16h45</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>17h00</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>17h15</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>17h30</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>17h45</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>18h00</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>18h15</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>18h30</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>18h45</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>19h00</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>19h15</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>19h30</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>20h00</string>
+      </property>
+     </row>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
