@@ -6,7 +6,7 @@ Je me suis chargé de la partie Model et Controller tandis que mon binome c'est 
 Notre programme tient compte lors de la génération de l'emploi du temps:
 - de l'ensemble des salles (plan de l'école) et de leur disponibilité (ou non)
 - de l'ensemble des enseignements (cursus)
-- de l'ensemble des élèves (promos, groupes), cependant par m�conaissance du syst�me nous ne traitons pas les cas de majeures/mineures.
+- de l'ensemble des élèves (promos, groupes)
 - de l'ensemble des enseignants et de leur disponibilité (ou non)
 - de l'ensemble des contraintes d'agenda (jours travaillés ou non, périodes de vacances)
 - Non ubiquité des élèves et enseignants.
